@@ -1,0 +1,31 @@
+body{
+background-color:pink;
+}
+.container{
+max-width:500px;
+margin-top:50px;
+}
+.quiz-container{
+background-color:white;
+border:1px solid white;
+border-radius:5px;
+padding:20px;
+}
+.timer{
+font-size:20px;
+font-weight:bold;
+margin-bottom:20px;
+}
+#question-container{
+margin-bottom:20px;
+}
+#choice li{
+margin-bottom:10px;
+}
+#submit-btn{
+font-size:18px;
+}
+#score{
+font-weight:bold;
+}
+
